@@ -1,6 +1,8 @@
 // ERPNEXT GSuite integration
 //
 
+//En que instancia? En que documento esta implementado? Porque no usar la integracion con frappe (v12)?
+
  function doGet(e){
    return ContentService.createTextOutput('ok');
 }
